@@ -536,9 +536,6 @@ ourDonatePara1.style.margin = "auto"
 ourDonatePara1.style.marginBottom = '50px'
 
 
-
-
-
 // function section
 donateButton100.addEventListener('click', function(){
     donateButton100.style.backgroundColor = 'rgba(255, 38, 0, 0.2)';
